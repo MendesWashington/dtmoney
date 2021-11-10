@@ -6,6 +6,13 @@ export const Container = styled.div`
     gap:2rem;
     margin-top:-10rem;
 
+    @media (max-width:720px){
+        display:flex;
+        width:100vw;
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+
     div{
         background: var(--shape);
         padding:1.5rem 2rem;
@@ -14,7 +21,7 @@ export const Container = styled.div`
 
         header{
             display:flex;
-            align-content:center;
+            align-items:center;
             justify-content:space-between;
         }
 
