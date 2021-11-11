@@ -9,6 +9,14 @@ Em redirecione o terminal para a raiz do projeto.
 Execute o comando yarn ou npm install
 Isso ira baixar as depedências do projeto.
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- JavaScript
+- NodeJS
+- Express
+
 ## Executando o projeto
 Na raiz do projeto execute o comando 'yarn start' ou  'npm start'
 
