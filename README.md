@@ -13,10 +13,10 @@ Isso ira baixar as depedências do projeto.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- JavaScript
-- NodeJS
-- Express
+- TypeScript
+- Sass
+- CSS
 
 ## Executando o projeto
-Na raiz do projeto execute o comando `yarn start` ou  `npm start`
+Na pasta raiz do projeto execute o comando no termina `yarn start` ou  `npm start`
 
