@@ -1,6 +1,5 @@
 # dtmoney
-Aplicação dt-money é uma aplicação desenvolvida no curso do ignit
-
+Aplicação dt-money é uma aplicação afim de práticar os conhecimentos adiquiridos no curso da #rocketseat
 ## Para baixar o projeto
 Execute o comando  `git clone https://github.com/MendesWashington/dtmoney.git` em uma pasta de sua preferência
 
@@ -14,8 +13,10 @@ Execute o comando  `git clone https://github.com/MendesWashington/dtmoney.git` e
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - TypeScript
+- Styled-Component
+- Html5
 - Sass
-- CSS
+- CSS3
 
 ## Executando o projeto
 Na pasta raiz do projeto execute o comando no termina `yarn start` ou  `npm start`
