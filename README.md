@@ -5,9 +5,9 @@ Aplicação dt-money é uma aplicação desenvolvida no curso do ignit
 Execute o comando  `git clone https://github.com/MendesWashington/dtmoney.git` em uma pasta de sua preferência
 
 ## Antes de executar o projeto
-Em redirecione o terminal para a raiz do projeto.
-Execute o comando yarn ou npm install
-Isso ira baixar as depedências do projeto.
+- Abra o terminal na pasta raiz do projeto.
+- Execute o comando `yarn` ou `npm install` para instalar as dependencias do projeto.
+
 
 ## 🚀 Tecnologias
 
