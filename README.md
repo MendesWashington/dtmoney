@@ -7,6 +7,8 @@ Execute o comando  `git clone https://github.com/MendesWashington/dtmoney.git` e
 - Abra o terminal na pasta raiz do projeto.
 - Execute o comando `yarn` ou `npm install` para instalar as dependencias do projeto.
 
+## Executando o projeto
+Na pasta raiz do projeto execute o comando no termina `yarn start` ou  `npm start` isso fará com que o projeto seja iniciado.
 
 ## 🚀 Tecnologias
 
@@ -20,6 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Sass
 - CSS3
 
-## Executando o projeto
-Na pasta raiz do projeto execute o comando no termina `yarn start` ou  `npm start`
+
 
