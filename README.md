@@ -18,6 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Axios
 - Miragejs
 - Styled-Component
+- React-Modal
+- Polished
 - Html5
 - Sass
 - CSS3
