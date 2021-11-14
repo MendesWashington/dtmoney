@@ -13,6 +13,8 @@ Execute o comando  `git clone https://github.com/MendesWashington/dtmoney.git` e
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - TypeScript
+- Axios
+- Miragejs
 - Styled-Component
 - Html5
 - Sass
