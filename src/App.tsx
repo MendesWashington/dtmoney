@@ -4,10 +4,10 @@ import { GlobalStyle } from "./styles/global";
 
 export const App = () => {
   return (
-    <div className="App">
+    <>
       <Header />
       <Dashboard />
       <GlobalStyle />
-    </div>
+    </>
   );
 };
