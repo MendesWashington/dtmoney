@@ -3,7 +3,8 @@ import styled from "styled-components";
 
 export const Container = styled.header`
     background: var(--blue);
-
+    max-width: 1920px;
+    min-width:620px;
 `;
 
 export const Content = styled.div`
