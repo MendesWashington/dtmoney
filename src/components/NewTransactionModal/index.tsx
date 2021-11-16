@@ -3,6 +3,7 @@ import Modal from "react-modal";
 import closeImg from "../../assets/close.svg";
 import inComeImg from "../../assets/income.svg";
 import outComeImg from "../../assets/outcome.svg";
+import { api } from "../../services";
 import { Container, RadioBox, TransactionTypeContainer } from "./styled";
 
 interface NewTransactionModalProps {
@@ -23,8 +24,8 @@ export const NewTransactionModal = ({
 
   function handleCreateNewTransaction(event: FormEvent) {
     event.preventDefault();
-
-    console.log({title, value, category, type});
+    const data = { title, value, category, type };
+    api.post("/transactions", data).then((response) => console.log(response));
   }
 
   return (
@@ -90,7 +91,6 @@ export const NewTransactionModal = ({
           onChange={(event) => setCategory(event.target.value)}
         />
         <button type="submit">Cadastrar</button>
-
       </Container>
     </Modal>
   );
