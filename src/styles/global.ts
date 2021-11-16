@@ -13,7 +13,6 @@ export const GlobalStyle = createGlobalStyle`
 
         --text-title:#363F5F;
         --text-body:#969CB3;
-
     }
 
     *{
@@ -28,6 +27,30 @@ export const GlobalStyle = createGlobalStyle`
        }
        @media(max-width: 720px){
             font-size:87.5%;
+       }
+
+       @media(max-width: 540px){
+            font-size:87.5%;
+            width:100vmax;
+       }
+       @media(max-width: 411px){
+            font-size:87.5%;
+            width:100vmax;
+       }
+
+       @media(max-width: 414px){
+            font-size:87.5%;
+            width:100vmax;
+       }
+
+       @media(max-width: 360px){
+            font-size:87.5%;
+            width:100vmax;
+       }
+
+       @media(max-width: 320px){
+            font-size:87.5%;
+            min-width:640px;
        }
     }
 
