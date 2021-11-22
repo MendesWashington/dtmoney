@@ -24,5 +24,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Sass
 - CSS3
 
+## 🔧 Funcionalidades
+- useState();
+- useEffect();
+- ma();
+- reduce();
+- async
+- await
+- then
+- catch
+- throw
+
 
 
